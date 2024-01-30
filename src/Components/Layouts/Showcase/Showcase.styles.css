@@ -1,0 +1,40 @@
+.showcase-container{
+    height: 100vh;
+    width: 100%;
+    background-image: url('../../../assests/Booksimages/bookbg.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0,0,0,0.9);
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.showcase-content{
+    width: fit-content;
+    z-index: 1;
+}
+.showcase-content h1, .showcase-content p{
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.showcase-content span{
+    font-family: Chivo Mono;
+}
+.product-listing-button{
+    display: inline-block;
+    background-color: var(--primary-color-bright);
+    width: 100%;
+    padding: 1rem 0;
+    text-align: center;
+    color: white;
+    font-family: Chivo Mono;
+    text-decoration: none;
+    margin-top: 2rem;
+    transition: 0.2s ease-in;
+}
+.product-listing-button:hover{
+    background-color: #000;
+}
