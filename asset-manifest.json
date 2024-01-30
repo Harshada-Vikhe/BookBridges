@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BookBridges/static/css/main.9e2636be.css",
+    "main.js": "/BookBridges/static/js/main.56786b26.js",
+    "static/js/787.d8c6a504.chunk.js": "/BookBridges/static/js/787.d8c6a504.chunk.js",
+    "static/media/loginbg.jpg": "/BookBridges/static/media/loginbg.2fda66d07e528c2b5d67.jpg",
+    "static/media/atomic habits.webp": "/BookBridges/static/media/atomic habits.cf13ab0de7b36f0078d5.webp",
+    "static/media/index.cjs": "/BookBridges/static/media/index.671993152dc0f6e0b17a.cjs",
+    "static/media/bookbg.avif": "/BookBridges/static/media/bookbg.dcf4452ddde031015131.avif",
+    "static/media/logo.svg": "/BookBridges/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BookBridges/index.html",
+    "static/media/Cart.svg": "/BookBridges/static/media/Cart.5cc362c04b029e48165981080d573359.svg",
+    "main.9e2636be.css.map": "/BookBridges/static/css/main.9e2636be.css.map",
+    "main.56786b26.js.map": "/BookBridges/static/js/main.56786b26.js.map",
+    "787.d8c6a504.chunk.js.map": "/BookBridges/static/js/787.d8c6a504.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e2636be.css",
+    "static/js/main.56786b26.js"
+  ]
+}
